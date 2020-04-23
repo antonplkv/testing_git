@@ -3,4 +3,4 @@ def count_sum(*args):
 
 
 if __name__ == '__main__':
-    count_sum(1, 2, 3, 4)
+    count_sum(1, 2, 3, 8)
