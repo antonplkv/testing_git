@@ -3,7 +3,7 @@ def count_sum(*args):
 
 
 def count_smth(*args):
-    return args
+    return args, args
 
 
 if __name__ == '__main__':
