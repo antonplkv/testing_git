@@ -16,3 +16,4 @@ class Item(BaseModel):
 def start(item_id: str = None, key: str = Query(..., max_length=3), key2: str = None):
     print(key)
     return Item(name='Name', description='desc', price=12.5)
+
