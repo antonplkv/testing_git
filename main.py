@@ -7,5 +7,5 @@ def count_smth(*args):
 
 
 if __name__ == '__main__':
-    count_sum(1, 2, 3, 8)
+    count_sum(1, 2, 3, 10)
     count_smth()
